@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502147639496",
+    "project_id": "melody-vpn",
+    "storage_bucket": "melody-vpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502147639496:android:f5aa10ce060c0163525dfd",
+        "android_client_info": {
+          "package_name": "com.hamzaAlzhnan.melodyVpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502147639496-fe4q4gtq2hr8k4lp53ho554t975725ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO5zKxytSLZPp7U_-S1lasAyL4HcJ2PEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502147639496-fe4q4gtq2hr8k4lp53ho554t975725ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
